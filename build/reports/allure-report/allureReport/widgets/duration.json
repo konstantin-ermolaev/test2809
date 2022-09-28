@@ -1,0 +1,131 @@
+[ {
+  "uid" : "81ac7b0431842526",
+  "name" : "[7] 400",
+  "time" : {
+    "start" : 1664391355850,
+    "stop" : 1664391355854,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f33c4bbd230f2f5d",
+  "name" : "[3] 400",
+  "time" : {
+    "start" : 1664391355655,
+    "stop" : 1664391355661,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b7db85c53123686",
+  "name" : "[2] 300",
+  "time" : {
+    "start" : 1664391355620,
+    "stop" : 1664391355627,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be3a417bf556014d",
+  "name" : "[5] 200",
+  "time" : {
+    "start" : 1664391355730,
+    "stop" : 1664391355732,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c943ec1872df1a91",
+  "name" : "[4] 500",
+  "time" : {
+    "start" : 1664391355682,
+    "stop" : 1664391355693,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7aa8256fc3361a0",
+  "name" : "repetition 3 of 4",
+  "time" : {
+    "start" : 1664391355360,
+    "stop" : 1664391355365,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf840ac5942d4633",
+  "name" : "repetition 4 of 4",
+  "time" : {
+    "start" : 1664391355379,
+    "stop" : 1664391355384,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81f7de22ad121981",
+  "name" : "minusBalanceTest()",
+  "time" : {
+    "start" : 1664391354612,
+    "stop" : 1664391354822,
+    "duration" : 210
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccb615f01e574987",
+  "name" : "repetition 1 of 4",
+  "time" : {
+    "start" : 1664391355287,
+    "stop" : 1664391355298,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a8af985e3508a97",
+  "name" : "repetition 2 of 4",
+  "time" : {
+    "start" : 1664391355322,
+    "stop" : 1664391355326,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99d0e48ab554376d",
+  "name" : "plusBalanceTest()",
+  "time" : {
+    "start" : 1664391355902,
+    "stop" : 1664391356349,
+    "duration" : 447
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c7f36a8d1128a9e",
+  "name" : "[6] 300",
+  "time" : {
+    "start" : 1664391355784,
+    "stop" : 1664391355788,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61310eac0dc9ae37",
+  "name" : "[1] 200",
+  "time" : {
+    "start" : 1664391355482,
+    "stop" : 1664391355588,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

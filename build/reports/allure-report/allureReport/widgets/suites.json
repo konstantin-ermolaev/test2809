@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "ab76d6429087ef42432412616c37f9c0",
+    "name" : "BalanceTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 13,
+      "unknown" : 0,
+      "total" : 13
+    }
+  } ]
+}
