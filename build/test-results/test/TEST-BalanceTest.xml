@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BalanceTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-09-28T14:06:46" hostname="LENOVO_G780" time="0.368">
+  <properties/>
+  <testcase name="minusBalanceTest()" classname="BalanceTest" time="0.041"/>
+  <testcase name="repetition 1 of 4" classname="BalanceTest" time="0.004"/>
+  <testcase name="repetition 2 of 4" classname="BalanceTest" time="0.001"/>
+  <testcase name="repetition 3 of 4" classname="BalanceTest" time="0.002"/>
+  <testcase name="repetition 4 of 4" classname="BalanceTest" time="0.003"/>
+  <testcase name="[1] 200" classname="BalanceTest" time="0.076"/>
+  <testcase name="[2] 300" classname="BalanceTest" time="0.002"/>
+  <testcase name="[3] 400" classname="BalanceTest" time="0.003"/>
+  <testcase name="[4] 500" classname="BalanceTest" time="0.003"/>
+  <testcase name="[5] 200" classname="BalanceTest" time="0.001"/>
+  <testcase name="[6] 300" classname="BalanceTest" time="0.003"/>
+  <testcase name="[7] 400" classname="BalanceTest" time="0.002"/>
+  <testcase name="plusBalanceTest()" classname="BalanceTest" time="0.07"/>
+  <system-out><![CDATA[Before all works
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
